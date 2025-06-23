@@ -1,0 +1,45 @@
+
+
+*{
+    background-color: burlywood;
+}
+.heading{
+    font-size: 100px;
+    color:orangered;
+    text-transform: uppercase;
+    text-shadow: 4px 5px 6px blue;
+}
+.para {
+    text-transform: capitalize;
+}
+
+.decor{
+    text-decoration: underline line-through overline;
+   
+}
+
+.main_para{
+    text-indent: 100px;
+    line-height: 30px;
+    font-size: 20px;
+    /* letter-spacing: 10px; */
+    word-spacing: 5px;
+    font-style: italic;
+}
+.shadow{
+    font-size: 80px;
+    color: black;
+    text-shadow: 6px 5px 8px blue;
+}
+
+.heading1{
+    color:red;
+    font-size: 40px;
+}
+#heading1{
+    color: beig;
+    font-size: 40px;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
