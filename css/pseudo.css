@@ -1,0 +1,54 @@
+
+.hover:hover{
+  color:burlywood;
+  display: inline;
+  background-color: aqua;
+   /* text-shadow: 5px 4px 8px red; */
+   padding: 10px;
+}
+
+button{
+    padding: 10px;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:active{
+    background-color: chartreuse;
+
+}
+a{
+    font-size: 50px;
+}
+
+a:visited{
+     color: blueviolet;
+     margin-left: 40px;
+}
+
+ul{
+    width: 300px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+li{
+    padding: 10px;
+    border: 2px solid red;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+li:nth-child(odd){
+    background-color: aqua;
+}
+li:nth-child(even){
+    background-color: chocolate;
+}
+
+input[type="text"]{
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
